@@ -1,0 +1,5 @@
+node_modules
+/middleware/uploads/*
+!/middleware/uploads/.gitkeep
+
+.env
